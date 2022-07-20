@@ -1,0 +1,46 @@
+{
+	"Clients": [
+		{
+			"FirstName": "Тест",
+			"LastName": "Тестов",
+			"MiddleName": "Тестович",
+			"PhoneNumber": "71112223344",
+			"PassportSerNumb": "1111222222"
+		},
+		{
+			"FirstName": "Семен",
+			"LastName": "Семенов",
+			"MiddleName": "Семенович",
+			"PhoneNumber": "70001234567",
+			"PassportSerNumb": "1234567890"
+		},
+		{
+			"FirstName": "Кредит",
+			"LastName": "Кредитов",
+			"MiddleName": "Кредитович",
+			"PhoneNumber": "77777777777",
+			"PassportSerNumb": "1000200000"
+		},
+		{
+			"FirstName": "Процент",
+			"LastName": "Процентов",
+			"MiddleName": "Процентович",
+			"PhoneNumber": "78889999999",
+			"PassportSerNumb": "2000100000"
+		},
+		{
+			"FirstName": "Депозит",
+			"LastName": "Депозитов",
+			"MiddleName": "Депозитович",
+			"PhoneNumber": "72222222222",
+			"PassportSerNumb": "1001200002"
+		},
+		{
+			"FirstName": "Дебет",
+			"LastName": "Дебетов",
+			"MiddleName": "Дебетович",
+			"PhoneNumber": "71111111111",
+			"PassportSerNumb": "3000400000"
+		},
+	]
+}
